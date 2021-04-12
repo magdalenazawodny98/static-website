@@ -1,1 +1,2 @@
-#static-website 
+# static-website 
+Static website (PSD to HTML)
